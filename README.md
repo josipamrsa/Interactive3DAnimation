@@ -10,8 +10,7 @@ se nalazi ili općenito vezano za gradivo osnovne škole.
 <h3>Instalacija aplikacije</h3>
 
 Za pokretanje aplikacije potreban je Windows sustav, Vista ili novije. 
-Za pokrenuti aplikaciju potrebno je odavde preuzeti cijeli projekt na računalo na prikladno mjesto. Preuzimanje se vrši klikom na dugme 
-<b>"Download"</b>, te odabrati opciju preuzimanja projekta u ZIP formatu. Poslije toga, u folderu <b>"MAIN"</b> naći datoteku imena LittleRedRidingHood.exe i pokrenuti.
+Za pokrenuti aplikaciju potrebno je s ovog linka preuzeti cijeli projekt na računalo i spremiti na prikladno mjesto. Preuzimanje se vrši klikom na dugme <b>"Download"</b>, nakon čega je potrebno odabrati opciju preuzimanja projekta u ZIP formatu. Nakon što se datoteka preuzme, raspakirati i u folderu <b>"MAIN"</b> naći datoteku imena LittleRedRidingHood.exe te pokrenuti.
 
 <h3>Upute</h3>
 
