@@ -43,4 +43,4 @@ lik mora stajati na jednom od crvenih rotirajućih polja. Preko toga bit će dos
 
 <h3>Licenca</h3>
 
-Vidjeti pod LICENSE.md.
+Vidjeti pod <a href="https://github.com/josipamrsa/Interactive3DAnimation/blob/master/LICENSE.md">LICENSE.md</a>.
