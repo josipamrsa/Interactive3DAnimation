@@ -40,3 +40,7 @@ Bilo koje druge kontrole bit će prikazane u uputama na ekranu tokom igrice
 
 Igrača se vodi kroz 8 interaktivnih poglavlja, odnosno razina, koje prate originalnu priču Crvenkapice. Za otkrivanje zadatka ili pitanja
 lik mora stajati na jednom od crvenih rotirajućih polja. Preko toga bit će dostupne i daljnje upute na ekranu. 
+
+<h3>Licenca</h3>
+
+Vidjeti pod LICENSE.md.
